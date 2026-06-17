@@ -1,0 +1,11 @@
+Licensing notes
+
+Board Games v1.0.0 is an original KOReader plugin by KitanaCode.
+It is released under the MIT License included in the LICENSE file.
+
+The plugin does not copy source code or assets from casualkochess.koplugin.
+That project was consulted only as a reference for KOReader menu behavior and
+organization.
+
+The chess, checkers, Connect 4, Tic Tac Toe, Minesweeper, and Battleship logic
+included in this package was developed for this plugin.
