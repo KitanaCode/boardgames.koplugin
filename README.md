@@ -5,6 +5,8 @@
 **Version 1.0.0**  
 **Made by KitanaCode**
 
+For if you'd like to support me and buy my starbucks. Here's my ko-fi link! https://ko-fi.com/kitanacode
+
 Board Games brings six familiar games to KOReader in one simple,
 e-ink-friendly plugin. Pick a game, settle in, and play without leaving your
 reader.
