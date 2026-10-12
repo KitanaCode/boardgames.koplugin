@@ -1494,7 +1494,7 @@ end
 function GameHub:onDispatcherRegisterActions()
     Dispatcher:registerAction("boardgames_open", {
         category = "none",
-        event = "BoardGamesFullplayV40FreshBWOpen",
+        event = "BoardGamesOpen",
         title = _("Board Games"),
         general = true,
     })
